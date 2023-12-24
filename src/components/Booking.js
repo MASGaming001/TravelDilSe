@@ -167,7 +167,7 @@ const Booking = () => {
                             <span className="text-red-500">{formError.description}</span>
                         </div>
 
-                        <button type="submit" className="px-4 py-2 bg-red-700 text-slate-100 rounded-md hover:bg-indigo-900">
+                        <button type="submit" className="px-4 py-2 bg-red-700 text-slate-100 rounded-md hover:bg-red-800">
                             Book
                         </button>
 
