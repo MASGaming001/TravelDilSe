@@ -14,7 +14,7 @@ const Footer = () => {
         <FaWhatsapp className="text-xl m-2 cursor-pointer hover:scale-105 hover:text-yellow-500 transition-all" />
         <FaTwitter className="text-xl m-2 cursor-pointer hover:scale-105 hover:text-yellow-500 transition-all" />
       </div>
-      <p className="text-center">Copyright &copy; 2023 Travel - All rights reserved.</p>
+      <p className="text-center">Copyright &copy; 2023 Travel DilSe - All rights reserved.</p>
     </div>
     </>
 }
